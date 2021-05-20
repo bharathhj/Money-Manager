@@ -1,2 +1,2 @@
 # Money Manager
-A File Structure Mini Project done in 6th semester
+A File Structure Mini Project done in 6th semester 2021
