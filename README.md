@@ -1,2 +1,2 @@
-# Money-Manager
-Money Ledger App
+# Money Manager
+A File Structure Mini Project done in 6th semester
